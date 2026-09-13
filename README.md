@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Harshavardhan T 👋
 
-<!--
-**harsha-2-006/harsha-2-006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electronics and Communication Engineering student who is curious about **Networking, Cybersecurity, and Electronics**.
 
-Here are some ideas to get you started:
+I enjoy exploring new technologies, experimenting with different ideas, and learning how things work. I'm still exploring different areas to find where I can go deeper and build meaningful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+
+- 🌐 Networking
+- 🔐 Cybersecurity
+- ⚡ Electronics
+- 🤖 AI & Technology
+- 🔎 Exploring and learning new things
+
+> Curious mind. Always exploring.
